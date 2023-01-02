@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ee6c73e-350e-44f1-b2d8-99697958f2ab" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/hello-acro-pro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/arco-a6cafa56.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/arco-a6cafa56.js.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-db586553.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chart-db586553.js.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/default-layout-2d98c0ea.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/default-layout-2d98c0ea.js.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/default-layout-c4a3ff6d.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/default-layout-c4a3ff6d.css.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-00f5b9bb.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-00f5b9bb.css.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-049d5253.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-049d5253.css.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-12726219.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-234e140d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-3fdaf4f5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-3fdaf4f52.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-468aec9a.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-468aec9a.css.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-626f6a6b.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-626f6a6b.css.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-6ed3ff99.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-7256cdc7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-7c738572.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-7c738572.css.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-8865b1ea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-8865b1ea.css.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-9e382af0.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-9e382af0.css.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-a727676d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-a727676d.js.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-b0b27c7d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-b64e3c87.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-b64e3c87.js.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-c28f6af9.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-c28f6af9.css.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index-e19f2379.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/login-banner-b03441a7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vue-ae5fa711.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vue-ae5fa711.js.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="kmpx6s42" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.3/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2JmjGdY5o9d6pncDSbmWsxQTit6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "F:/hello-acro-pro",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="4ee6c73e-350e-44f1-b2d8-99697958f2ab" name="变更" comment="" />
+      <created>1672690058282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672690058282</updated>
+      <workItem from="1672690062845" duration="613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
